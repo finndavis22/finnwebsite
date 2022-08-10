@@ -1,0 +1,15 @@
+.banner {
+background-color:brown;
+    position: sticky;
+    top: 0;
+}
+
+.banner > img {
+      height: 4em;
+      
+}
+
+.banner > * {
+    display: inline;
+    vertical-align: middle;
+}
